@@ -1,0 +1,14 @@
+{
+  "name": "mykasih",
+  "display_name": "MyKasih / SARA",
+  "version": "1.0.0",
+  "description": "Semak kelayakan produk SARA, kategori & kedai — guna API terbuka MyKasih v1.0.30 (12k merchants, 2,395 produk layak)",
+  "requires": null,
+  "homepage": "https://app.mykasih.net",
+  "source_url": "https://github.com/nampumsaram/cli-anything-mykasih",
+  "install_cmd": "pip install cli-anything-mykasih",
+  "entry_point": "cli-anything-mykasih",
+  "skill_md": "https://github.com/nampumsaram/cli-anything-mykasih/blob/main/cli_anything/mykasih/skills/SKILL.md",
+  "category": "finance",
+  "contributors": [{"name": "nampumsaram", "url": "https://github.com/nampumsaram"}]
+}

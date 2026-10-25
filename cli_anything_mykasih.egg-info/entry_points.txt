@@ -1,0 +1,3 @@
+[console_scripts]
+cli-anything-mykasih = cli_anything.mykasih.mykasih_cli:main
+mykasih = cli_anything.mykasih.mykasih_cli:main
