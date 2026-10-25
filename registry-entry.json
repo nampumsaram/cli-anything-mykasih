@@ -1,8 +1,8 @@
 {
   "name": "mykasih",
   "display_name": "MyKasih / SARA",
-  "version": "1.0.0",
-  "description": "Semak kelayakan produk SARA, kategori & kedai — guna API terbuka MyKasih v1.0.30 (12k merchants, 2,395 produk layak)",
+  "version": "1.1.0",
+  "description": "Semak kelayakan produk SARA — data segar Lotuss 25 Okt 2026 (13,391 produk, 6,114 layak, total 8,384) + 12k kedai",
   "requires": null,
   "homepage": "https://app.mykasih.net",
   "source_url": "https://github.com/nampumsaram/cli-anything-mykasih",

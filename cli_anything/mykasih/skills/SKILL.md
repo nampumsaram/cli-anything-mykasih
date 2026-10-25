@@ -57,3 +57,9 @@ mykasih search maggi --limit 5
 ## Rules
 - Always support `--json` for agent parsing
 - Prefer live API, fallback offline automatically
+
+## Fresh data (25 Okt 2026)
+- `mykasih fresh` — ringkasan Lotuss 13,391 produk, 15,852 barcode, 6,114 layak, 5,989 baru tulen
+- `mykasih compare` — perbandingan kategori lama vs baru
+- `mykasih search` kini cari dalam 6,114 produk Lotuss (bukan 2,395 lama sahaja)
+- Offline fallback kini guna sara_scan_lotuss.csv (14,571 rekod) dahulu
